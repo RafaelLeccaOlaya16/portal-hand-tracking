@@ -8,7 +8,9 @@ Python, OpenCV, MediaPipe, NumPy
 Boceto, pixelado, invertido y térmico.
 
 ## Cómo ejecutarlo
+
+```
 pip install -r requirements.txt
 python Portal.py
-
+```
 La primera vez se descarga automáticamente el modelo de MediaPipe.
